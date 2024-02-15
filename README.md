@@ -1,6 +1,6 @@
 Molecular-Atlas-of-plant-organelle-evolution
 A molecular atlas of plastid and mitochondrial evolution from algae to angiosperms
-Parth K. Raval,  Alexander I. MacLeod,  Sven B. Gould
+#Parth K. Raval,  Alexander I. MacLeod,  Sven B. Gould
 
 Institute for Molecular Evolution, Heinrich-Heine-University Düsseldorf, 40225 Düsseldorf, Germany
 
